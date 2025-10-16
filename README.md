@@ -418,7 +418,7 @@ Using the SQL → Python → Power BI pipeline, a **Reproducible, documented, an
 
 Author: Arturo Carreras
 
-> [ LinkedIn: www.linkedin.com/in/arturo-carreras-18549a1b4 / GitHub / Email: arturoc211995@gmail.com ]
+> [ LinkedIn: www.linkedin.com/in/arturo-carreras-18549a1b4 / [GitHub](https://github.com/Arturo-777) / Email: arturoc211995@gmail.com ]
 
 ---
 
